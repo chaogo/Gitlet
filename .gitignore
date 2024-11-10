@@ -1,3 +1,6 @@
+# Ignore IntelliJ IDEA module files
+*.iml
+
 # Ignore IntelliJ IDEA project settings
 .idea/
 
